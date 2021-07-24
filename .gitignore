@@ -1,0 +1,6 @@
+.idea
+deploy.sh
+/node_modules/
+/dist/
+/.vscode/
+.DS_Store

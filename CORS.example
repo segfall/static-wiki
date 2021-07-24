@@ -1,0 +1,22 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET",
+            "HEAD"
+        ],
+        "AllowedOrigins": [
+            "http://static.wiki",
+            "https://static.wiki/*"
+        ],
+        "ExposeHeaders": [
+            "Accept-Ranges",
+            "Content-Encoding",
+            "Content-Length",
+            "Content-Range",
+            "Access-Control-Allow-Origin"
+        ]
+    }
+]

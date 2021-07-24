@@ -1,0 +1,29 @@
+{
+  "name": "sqlitewiki",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && sleep 1",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.12",
+    "svelte": "^3.38.3",
+    "vite": "^2.4.2",
+    "yargs": "^5.0.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.4.0",
+    "comlink": "^4.3.1",
+    "highlight-words": "^1.1.1",
+    "sanitize-html": "^2.3.3",
+    "saxophone": "^0.7.1",
+    "sql.js-httpvfs": "^0.8.9",
+    "svelte-markdown": "0.1.8",
+    "svelte-routing": "^1.6.0",
+    "unescape": "^1.0.1",
+    "wtf_wikipedia": "^9.0.0",
+    "wtf-plugin-html": "^0.2.2",
+    "wtf-plugin-markdown": "^0.2.1"
+  }
+}
