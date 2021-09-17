@@ -127,7 +127,6 @@ As a workaround, you either generate the databases yourself or get a copy from [
 3. [spencermountain](https://github.com/spencermountain) for his [wtf_wikipedia](https://github.com/spencermountain/wtf_wikipedia) library.
 4. Wikipedia for their daily dataset dumps.
 5. Everyone in package.json for their libraries.
-6. [Me](https://www.linkedin.com/in/timothychambers/) for gluing things together.
 
 
 <img src="https://img.spacergif.org/v1/spacer.gif" width="1" height="10">
